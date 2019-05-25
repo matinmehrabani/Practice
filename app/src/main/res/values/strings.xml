@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Multi Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="film">
+
+        <item>matin</item>
+        <item>film2</item>
+        <item>film3</item>
+        <item>film4</item>
+        <item>film5</item>
+    </string-array>
+
+</resources>
