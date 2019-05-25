@@ -10,7 +10,5 @@ public class DataBinding extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_data_binding);
 
-        int a=0;
-        a=a+1;
     }
 }
