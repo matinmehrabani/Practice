@@ -9,5 +9,8 @@ public class DataBinding extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_data_binding);
+
+        int a=0;
+        a=a+1;
     }
 }
